@@ -14,6 +14,7 @@
 ```bash
 git clone https://github.com/klettermi/calendar.git
 cd calendar
+```
 
 ### 3.
 docker-compose up --build
